@@ -1,6 +1,6 @@
 {
   "title": "TCGMap",
-  "description": "TCG(トレーディングカード)のショップを検索できるマップアプリ",
+  "description": "TCG(トレーディングカード)のショップを検索できるマップアプリ\n現在はコナミフレンドリーショップのみ検索できます。",
   "form_url": "",
   "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
